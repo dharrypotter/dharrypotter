@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dharrypotter
-- 👀 I’m interested in large scale Genomics,NGS and use of Machine Learning in developing new algorithms in biology
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Genomics and Data Science
-- 📫 How to reach me
+- 👀 I’m interested in Machine Learning and Artificial Intelligence in various domains of IT/Healthcare
+- 🌱 I’m currently learning Deep Learning, NLP 
+- 💞️ I’m looking to collaborate on Bioinformatics and Data Science
+- 📫 I can be reached at dharaawasthi@gmail.com
 
 <!---
 dharrypotter/dharrypotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
